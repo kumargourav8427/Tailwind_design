@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2c9e50da.css",
+    "main.js": "/static/js/main.100bc00a.js",
+    "static/js/453.88791f47.chunk.js": "/static/js/453.88791f47.chunk.js",
+    "static/media/footer img.jpg": "/static/media/footer img.ab6da4c272d5c8897fd3.jpg",
+    "static/media/pw-skills-baneer.jpg": "/static/media/pw-skills-baneer.9f857f7970fe793f27d8.jpg",
+    "static/media/achivements.PNG": "/static/media/achivements.50a70b2ad337ab27ba2b.PNG",
+    "static/media/skill lab.PNG": "/static/media/skill lab.75f46faf19c4c41d2f86.PNG",
+    "static/media/student.PNG": "/static/media/student.0710e6691f65c628c69b.PNG",
+    "static/media/tenth.PNG": "/static/media/tenth.d67e1156ab8da2bb6cc9.PNG",
+    "static/media/book.PNG": "/static/media/book.f2cfe0ad0a29b4d59adf.PNG",
+    "static/media/bucket.PNG": "/static/media/bucket.a78a66b479a37f2557b9.PNG",
+    "static/media/bucket 2.PNG": "/static/media/bucket 2.2655e7c33ac193ee00dc.PNG",
+    "static/media/job portal.PNG": "/static/media/job portal.83551ac90b11dfd937d4.PNG",
+    "index.html": "/index.html",
+    "main.2c9e50da.css.map": "/static/css/main.2c9e50da.css.map",
+    "main.100bc00a.js.map": "/static/js/main.100bc00a.js.map",
+    "453.88791f47.chunk.js.map": "/static/js/453.88791f47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c9e50da.css",
+    "static/js/main.100bc00a.js"
+  ]
+}
